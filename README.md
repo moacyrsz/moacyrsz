@@ -26,4 +26,4 @@
 
 ## **My projects**
 
-* [Rental Price Prediction - KNN and Linear Regression](https://github.com/moacyrsz/)
+* [Rental Price Prediction - KNN and Linear Regression](https://github.com/moacyrsz/rental-price-prediction/blob/main/MACHINE_LEARNING_REGRESS%C3%83O_LINEAR_E_KNN.ipynb)
