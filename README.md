@@ -1,16 +1,29 @@
-## Hi there 👋
+# **Hi, I'm Moacyr** 👨‍💻👋 
 
-<!--
-**moacyrsz/moacyrsz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Who am I? 
 
-Here are some ideas to get you started:
+* 👨‍💻 AI Student at FIAP.
+* 📊 Enthusiast of problem-solving through data analysis..
+* 🎓 Former Social Sciences student - EFLCH - UNIFESP.
+* 🎓 Technical degree in Administrarion - ETEC.
+* 🚀 Seeking growth and new challenges at the intersection of technology and data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills 👨‍💻
+
+* 🐍 Python.
+* 📈 R.
+* 🗄 SQL.
+* 💻 SAS.
+* 🧮 Power BI.
+* 🔮 Machine Learning. 
+* 📊 Data Visualization
+* 🧪 Survival Analysis.
+
+## Find me around the world :earth_americas:
+
+*  [Linkedin]( https://www.linkedin.com/in/moacyr-cabral/)
+
+
+## **My projects**
+
+* [Rental Price Prediction - KNN and Linear Regression](https://github.com/moacyrsz/)
